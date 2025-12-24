@@ -1,6 +1,7 @@
 # Contributors
 
 - [Akhil Vikram Singh](https://github.com/Akhil2680) : My first open source contribution
+- [Sanya Gupta](https://github.com/gupta-sanya): First open source contribuion
 - [Samuel MW](https://github.com/samuel-micah) : just right, Got right
 - [Yasar Arafath](https://yasar-raf.github.io/portfolio) : New here
 - [Shivanshu Pandey](https://github.com/Shivanshupandey5) 👾🤖🎄 : First open source contribution
